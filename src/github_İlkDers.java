@@ -5,5 +5,7 @@ public class github_İlkDers {
         System.out.println("Have a nice day");
         System.out.println("===========HOŞGELDİNİZ=============");
         System.out.println("I LOVE YOU");
+
+        System.out.println("Merhaba ben Duygu");
     }
 }
